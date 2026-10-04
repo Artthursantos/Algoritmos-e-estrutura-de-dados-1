@@ -1,0 +1,7 @@
+*.exe
+*.o
+*.out
+*~
+*.bak
+Thumbs.db
+desktop.ini
